@@ -1,38 +1,38 @@
 {
-  "name": "SHAHADAT CHAT BOT",
+  "name": "M1X NIROB CHAT BOT",
   "version": "10.1.1",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made By M1X NIROB",
   "main": "Main.js",
   "engines": {
     "node": "20.x",
     "npm": ">=10.0.0 <13.0.0"
   },
   "scripts": {
-    "start": "node Sahu.js",
+    "start": "node Nirob.js",
     "login": "node login",
     "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT.git"
+    "url": "https://github.com/NiROB-XD69/M1X-NIROB.git"
   },
   "keywords": [
     "bot",
     "facebook",
-    "shahadatproject",
+    "nirobproject",
     "messenger",
     "javascript",
     "shadat",
     "ullash",
-    "cybersahu",
+    "cyberNirob",
     "shahadat chat bot"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "M1X NIROB",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
+    "url": "https://github.com/NiROB-XD69/M1X-NIROB/issues"
   },
-  "homepage": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues",
+  "homepage": "https://github.com/NiROB-XD69/M1X-NIROB/issues",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.2",
     "@miraipr0ject/assets": "^1.0.9",
